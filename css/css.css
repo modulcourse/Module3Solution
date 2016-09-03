@@ -1,0 +1,77 @@
+body {
+  font-size: 16px;
+ font-weight: bold;
+  background-color: #FF6633; }
+
+
+#header-nav {  text-decoration: none;
+  border-radius: 0;
+  border: 0;}
+
+.navbar-brand {  padding: 10px;}
+
+.navbar-brand h1 {  color:white;
+  font-size: 1.9em;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 0;
+  text-decoration: none; }
+
+#nav-list { margin-top: 10px;}
+
+#nav-list a {
+text-decoration: none;
+color:#FFFF99;
+text-align: center;}
+
+#nav-list a:hover { 
+text-decoration: none; 
+color: #FF6633; }
+
+#nav-list a span {  font-size: 1.8em;}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #FFFFFF;}
+
+hr {border-color:#FF6633;}
+
+#main-menu {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;}
+
+#main-menu h1{ 
+
+  color:white;
+  text-align: center; 
+  margin:25px;}
+
+#menu1, #menu2, #menu3 {
+  position: relative;
+  height: auto;
+  width: 100%;
+  margin: 15px;
+  padding:25px;
+  border: 1px solid #000000 ;
+  background-color: #FFFF99;}
+
+#menu1:hover, #menu2:hover, #menu3:hover {
+  box-shadow: 0 1px 5px 1px #cccccc;}
+
+
+#menu1 span, #menu2 span, #menu3 span {
+position: absolute;
+  top: 5px;
+  right: 0;
+  width: 100%;
+  text-align: center;
+  font-size: 1.5em;  }
+
+  #menu3 .top {color: #000000 ;}
+
+ #menu1 p {margin-top: 25px; }
+ #menu2 p {margin-top: 25px; }
+ #menu3 p {margin-top: 25px; }
+
+
